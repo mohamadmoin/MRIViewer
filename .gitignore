@@ -1,0 +1,16 @@
+DeepLearning/
+dist/
+build/
+node_modules/
+*.log
+*.tmp
+.env
+tests/
+*.md
+*.txt
+*.json
+*.yaml
+*.yml
+*.lock
+*.lockb
+*.pth
